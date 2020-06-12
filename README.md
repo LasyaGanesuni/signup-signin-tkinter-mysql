@@ -20,5 +20,5 @@ This project is about building a Signin and Signup forms with Python(Tkinter) an
 * You have to setup MYSQL database 
 * Next you have to install mysql.connector, for that go to command promt and use this command 
 #### pip3 install mysql-connector
-# Liscence
-This software is under an MIT License. Which allows full use to edit, distribute, or sell this code. See the "LICENSE" file for more information!
+# Contributor
+#### @LasyaGanesuni
