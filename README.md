@@ -3,10 +3,10 @@
 # Overview
 This project is about building a Signin and Signup forms with Python(Tkinter) and MYSQL. These forms allows users to fill their details and those details will be stored in MYSQL database. When user tries to login with their details those details will be compared to the data which is already stored in database. If the data matches the user will be logged successfully.
 # Screenshots
-#### Here when a new user tries to log in it throwed an error.
+#### Here when a new user tries to login, it throwed an error.
 ![login1](https://user-images.githubusercontent.com/66461307/84510526-dedf8b80-ace2-11ea-84a0-6f1702b1fc95.PNG)
 
-#### Here the registered and tried to log in then the user successfully loggedin!
+#### Here the user registered and tried to log in, then the user successfully loggedin!
 ![login2](https://user-images.githubusercontent.com/66461307/84510863-4bf32100-ace3-11ea-8195-ad9549a4e760.PNG)
 # Widgets used
 ### The widgets used in development of this frontend are
